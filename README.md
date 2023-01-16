@@ -1,6 +1,6 @@
 # Hello 🙋🏾‍♂️
 
-I am a developer and I am passionate about coding. I enjoy learning new technologies and building projects that solve real-world problems.
+## I am a developer and I am passionate about coding. I enjoy learning new technologies and building projects that solve real-world problems.
 
 On this GitHub profile, you will find a variety of projects that I have been working on.
 Here are some of the technologies that I have experience with:
